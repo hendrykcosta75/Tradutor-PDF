@@ -1,0 +1,7 @@
+pymupdf
+deep-translator
+ttkbootstrap
+python-dotenv
+google-generativeai
+openai
+anthropic

@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pdf
+!test_source.pdf
+!test_layout_source.pdf
